@@ -1,0 +1,5 @@
+Emre Turhan;3;21
+Mert Yurtseven;3;20
+Jamilya;0;32
+arkadass;0;24
+akdfgh;0;10

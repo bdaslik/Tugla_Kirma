@@ -1,0 +1,11 @@
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\bin\Debug\raket_tugla.exe.config
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\bin\Debug\raket_tugla.exe
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\bin\Debug\raket_tugla.pdb
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.csprojResolveAssemblyReference.cache
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.Form1.resources
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.Properties.Resources.resources
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.csproj.GenerateResource.Cache
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.exe
+c:\users\bdaslik.desktop-rh48r0m\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.pdb
+C:\Users\BDaslik.DESKTOP-RH48R0M\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.Form2.resources
+C:\Users\BDaslik.DESKTOP-RH48R0M\documents\visual studio 2015\Projects\raket_tugla\raket_tugla\obj\Debug\raket_tugla.Form3.resources
